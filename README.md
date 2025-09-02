@@ -1,12 +1,27 @@
 
-# 🧠 Repository Automatic TMT
-This repository contains the implementation of a computed tomography image processing system for the automatic measurement of temporalis muscle thickness.
+# 🧠 Automatic TMT Repository 
+**"Automatic Measurement of Temporalis Muscle Thickness in Computed Tomography Images"**
+
+This repository presents a computed tomography (CT) image processing system for the automatic measurement of temporalis muscle thickness.
+
+<hr>
+
+
+# 👨🏻‍🎓 Authors and Advisor
+Dana Cotes Cala
+Kevin Rueda Muñoz
+Students at Universidad Industrial de Santander (UIS)
+Advisor: Said Pertuz
+Research Group: Connectivity and Signal Processing Research Group (CPS)
+
+
+
 <table width="100%">
 <tr>
 <td>
 
 
-## 📂 Contens
+## 📂 Project Structure
 - **Instrucciones paso a paso** 
 
  
