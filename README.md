@@ -49,4 +49,6 @@ Repositorio con un sistema de procesamiento de imágenes TC para la **medición 
 </table>
 
 ## ❗👇 Important Note
-It should be noted that the development of this tool is still in progress, so this notebook is more of a showcase of the progress of this development. However, the structure shown here is intended to be as close as possible to the final release of the tool.
+It should be noted that the development of this tool is still ongoing, so this notebook is a snapshot of its progress. However, the structure shown here is intended to be as close to the final version of the tool as possible.
+
+You may encounter errors, bugs, or simply questions. If so, please contact us at automatictmt@gmail.com.
