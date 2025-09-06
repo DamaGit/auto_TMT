@@ -1,0 +1,8 @@
+Depths where the radiologist performed the thickness measurement
+
+9lr: 36.29176410507172
+30lr: 31.207107543945313
+25lr: 53.15238886713769
+
+
+You can use the full number or use only the two digits after the period.
